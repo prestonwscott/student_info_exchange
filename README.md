@@ -1,6 +1,6 @@
 # Student Information Exchange (SIE)
 
-This is an archive of an android development term project that I built with in a team with 3 other people.
+This is an archive of my android development term project that I built with a team with 3 other people.
 
 ## Android Application
 
