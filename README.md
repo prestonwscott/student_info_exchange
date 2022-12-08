@@ -1,6 +1,6 @@
 # Student Information Exchange (SIE)
 
-Student Information Exchange is an Android application that helps the university students to exchange information. Students can use this app to form an organization/clubs , buy/sell/trade second hand items , request for tutoring services , direct message to the individuals or in the Group , search for any Upcoming events , and much more. 
+This is an archive of term android development project that I built with a team of 3 other people.
 
 ## Android Application
 
